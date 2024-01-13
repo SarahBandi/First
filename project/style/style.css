@@ -1,0 +1,48 @@
+body{
+    background-color: #f0e7f5;
+}
+#firstdiv{
+    background-color: #f3dcdc;
+    border: rgb(255, 255, 255);
+    border-radius: 0.5px;
+    border-style: solid ;
+    padding: 40px;
+    text-align: center;
+}
+.men{
+    background-color: rgb(245, 190, 188);
+border:  rgb(245, 190, 188);
+border-radius: 0.5px;
+border-style: solid ;
+padding: 40px;
+    float:left;
+    width: 19.1%;
+    color:  rgb(225, 17, 110);
+}
+.sev{
+    background-color: rgb(154, 153, 150);
+    width: 24.6%;
+    height:200px;
+    float: left;
+    border: rgb(255, 255, 255);
+    border-radius: 0.5px;
+    border-style: solid ;
+}
+#fifdiv{
+    background-color: rgb(245, 190, 188);
+    border: rgb(255, 255, 255);
+    border-radius: 0.5px;
+    border-style: solid ;
+   padding: 100px;
+   text-align: center;
+   color:  rgb(225, 17, 110);
+}
+#sixdiv{
+    background-color: #f3dcdc;
+    border: rgb(255, 255, 255);
+    border-radius: 0.5px;
+    border-style: solid ;
+    padding: 50px;
+    text-align: center;
+    color:  rgb(225, 17, 110);
+}
